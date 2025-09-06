@@ -1,4 +1,4 @@
 # Harshit-demo-
 This is my first repository.
 <br>
-Author - Harshit Dubye 
+Author - Harshit Dubye (krish)
